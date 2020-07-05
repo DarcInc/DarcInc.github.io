@@ -10,6 +10,8 @@ You can follow the instructions from the [Swift](https://swift.org) site to down
 I will assume you have some programming background.
 I think any language is reasonable.
 
+The final project is at [this repo](https://github.com/darcinc/SwiftNewLook)
+
 I’m going to create a new library project.
 In an empty directory called Temps, I will run:
 
@@ -130,7 +132,7 @@ Otherwise, it won't run your new test.
 ```swift
 static var allTests = [
 	("doubleToTemperature", doubleToTemperature),
-	(“simpleTemperature”, simpleTemperature)
+	("simpleTemperature", simpleTemperature)
 ]
 ```
 
@@ -198,7 +200,7 @@ From here on in, I'm going to assume you are doing that.
 static var allTests = [
 	("doublePropertiesToTemperature", doublePropertiesToTemperature),
 	("doubleToTemperature", doubleToTemperature),
-	(“simpleTemperature”, simpleTemperature)
+	("simpleTemperature", simpleTemperature)
 ]
 ```
 
