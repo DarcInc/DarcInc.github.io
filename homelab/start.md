@@ -15,7 +15,9 @@ The networking and power need to be there for the actual learning and experiment
 Not everyone is interested in the same things.
 For example, a data scientist and a hardware hacker have different needs.
 The data scientist may need a stable platform on which to install and run tools.
+The tools and scripts are changing but the actual computers probably aren't ever opened.
 The hardware hacker is going to stick logic probes into things and twiddle power.
+Parts of things are being assembled, reassembled and desoldered.
 
 The purpose of my homelab is to experiment with automation.
 I'm primarily intersted in how to take a pile of computers and turn it into something useful without human intervention.
